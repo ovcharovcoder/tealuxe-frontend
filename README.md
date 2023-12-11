@@ -1,7 +1,7 @@
 # tealuxe-frontend
 <h2>About</h2>
 <ul>
-  <li>Site name: Fanatic</li>
+  <li>Site name: Tealuxe</li>
   <li>Web developer: Andriy Ovcharov</li>
   <li>Development date: 18.11.2023</li>
   <li>
