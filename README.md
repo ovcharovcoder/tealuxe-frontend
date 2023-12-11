@@ -3,7 +3,7 @@
 <ul>
   <li>Site name: Fanatic</li>
   <li>Web developer: Andriy Ovcharov</li>
-  <li>Development date: 12.12.2023</li>
+  <li>Development date: 18.11.2023</li>
   <li>
     <p>Brief description:</p>
     <p>The landing page website is dedicated to different types of tea.</p>
