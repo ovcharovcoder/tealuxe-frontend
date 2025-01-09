@@ -8,7 +8,7 @@
     <p>Brief description:</p>
     <p>The landing page website is dedicated to different types of tea.</p>
   </li>
-  <li>The source files for this site are located at: https://github.com/ovcharovcoder/tealuxe-project-src</li>
+  <li>The source files for this site are located at: https://github.com/ovcharovcoder/tealuxe-front-project-src</li>
 </ul>
 
 <img src="Screenshot.png" alt="screensot">
