@@ -1,4 +1,4 @@
-# tealuxe-frontend
+<h1>Website "Tealuxe"</h1>
 <h2>About</h2>
 <ul>
   <li>Site name: "Tealuxe";</li>
